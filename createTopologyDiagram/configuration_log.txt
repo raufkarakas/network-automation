@@ -1,0 +1,17 @@
+2022-02-04 20:58:16: BILGI: 172.16.2.253 IP adresli switch'e baglanildi.
+2022-02-04 20:58:16: BILGI: Switch hostname: Core_SW 
+2022-02-04 20:58:16: BILGI: CDP dictionary basariyla oluşturuldu.
+2022-02-04 20:58:19: BILGI: 172.16.2.11 IP adresli switch'e baglanildi.
+2022-02-04 20:58:19: BILGI: Switch hostname: SW1 
+2022-02-04 20:58:19: BILGI: CDP dictionary basariyla oluşturuldu.
+2022-02-04 20:58:22: BILGI: 172.16.2.22 IP adresli switch'e baglanildi.
+2022-02-04 20:58:32: BILGI: Switch hostname: SW2 
+2022-02-04 20:58:33: BILGI: CDP dictionary basariyla oluşturuldu.
+2022-02-04 20:58:36: BILGI: 172.16.2.33 IP adresli switch'e baglanildi.
+2022-02-04 20:58:36: BILGI: Switch hostname: SW3 
+2022-02-04 20:58:36: BILGI: CDP dictionary basariyla oluşturuldu.
+2022-02-04 20:58:39: BILGI: 172.16.2.44 IP adresli switch'e baglanildi.
+2022-02-04 20:58:39: BILGI: Switch hostname: AP01 
+2022-02-04 20:58:39: BILGI: CDP dictionary basariyla oluşturuldu.
+2022-02-04 20:58:46: HATA: 172.16.2.55 IP adresli switch'e baglanilamadi. Timeout.
+2022-02-04 20:58:47: Bilgi: Topolojiye 'networkTopology.html' dosyasindan ulasilabilir.
