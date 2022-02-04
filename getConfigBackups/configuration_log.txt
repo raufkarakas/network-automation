@@ -1,0 +1,6 @@
+2022-02-04 21:23:25: BILGI: 172.16.2.44 IP adresli switch'e baglanildi.
+2022-02-04 21:23:25: BILGI: Switch konfigurasyonu aliniyor.
+2022-02-04 21:23:25: BILGI: Cihaz konfigurasyonu SSH ile basariyla alindi.
+2022-02-04 21:23:25: BILGI: Switch konfigurasyonu 'configBackups' klasorune kaydediliyor.
+2022-02-04 21:23:27: BILGI: SSH baglantisi sonlandirildi.
+2022-02-04 21:23:32: HATA: 172.16.2.55 IP adresli switch'e baglanilamadi. Timeout.
