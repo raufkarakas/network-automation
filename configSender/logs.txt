@@ -1,0 +1,20 @@
+2022-02-05 17:11:28: BILGI: Switch IP listesi olusturuldu. 5 switch bulundu.
+2022-02-05 17:11:28: BILGI: Konfigurasyon listesi olusturuldu.
+2022-02-05 17:11:36: BILGI: 172.16.2.11 IP adresli switch'e baglanildi.
+2022-02-05 17:11:37: BILGI: Konfigurasyon listesi uygulandi.
+2022-02-05 17:11:37: BILGI: Switch (172.16.2.11) konfigurasyonu kaydedildi.
+2022-02-05 17:11:39: BILGI: Switch (172.16.2.11) baglantisi kapatildi.
+2022-02-05 17:11:50: BILGI: 172.16.2.22 IP adresli switch'e baglanildi.
+2022-02-05 17:11:51: BILGI: Konfigurasyon listesi uygulandi.
+2022-02-05 17:11:51: BILGI: Switch (172.16.2.22) konfigurasyonu kaydedildi.
+2022-02-05 17:11:53: BILGI: Switch (172.16.2.22) baglantisi kapatildi.
+2022-02-05 17:11:54: BILGI: 172.16.2.33 IP adresli switch'e baglanildi.
+2022-02-05 17:11:55: BILGI: Konfigurasyon listesi uygulandi.
+2022-02-05 17:11:55: BILGI: Switch (172.16.2.33) konfigurasyonu kaydedildi.
+2022-02-05 17:11:57: BILGI: Switch (172.16.2.33) baglantisi kapatildi.
+2022-02-05 17:12:02: HATA: Switch (172.16.2.55) konfigure edilirken hata olustu.
+2022-02-05 17:12:03: BILGI: 172.16.2.253 IP adresli switch'e baglanildi.
+2022-02-05 17:12:03: BILGI: Konfigurasyon listesi uygulandi.
+2022-02-05 17:12:03: BILGI: Switch (172.16.2.253) konfigurasyonu kaydedildi.
+2022-02-05 17:12:06: BILGI: Switch (172.16.2.253) baglantisi kapatildi.
+2022-02-05 17:12:06: BILGI: Islem tamamlandi.

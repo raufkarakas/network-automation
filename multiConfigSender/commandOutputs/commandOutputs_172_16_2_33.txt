@@ -1,0 +1,11 @@
+configure terminal
+Enter configuration commands, one per line.  End with CNTL/Z.
+SW3(config)#interface eth 0/3
+SW3(config-if)#desc test44
+SW3(config-if)#exit
+SW3(config)#interface vlan 101
+SW3(config-if)#ip address 192.168.101.1 255.255.255.0
+SW3(config-if)#exit
+SW3(config)#end
+SW3#Building configuration...
+Compressed configuration from 1607 bytes to 984 bytes[OK]

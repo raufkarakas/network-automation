@@ -1,0 +1,6 @@
+interface eth 0/2
+desc pc
+exit
+interface vlan 5
+desc testVlanL3
+ip address 192.168.254.0 255.255.255.252

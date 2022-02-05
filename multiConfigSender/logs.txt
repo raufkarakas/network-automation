@@ -1,0 +1,14 @@
+2022-02-05 17:23:05: BILGI: Konfigurasyon veritabani olusturuldu. 3 switch bulundu.
+2022-02-05 17:23:11: BILGI: 172.16.2.11 IP adresli switch'e baglanildi.
+2022-02-05 17:23:11: BILGI: Konfigurasyon listesi uygulandi.
+2022-02-05 17:23:11: BILGI: Switch (172.16.2.11) konfigurasyonu kaydedildi.
+2022-02-05 17:23:14: BILGI: Switch (172.16.2.11) baglantisi kapatildi.
+2022-02-05 17:23:15: BILGI: 172.16.2.33 IP adresli switch'e baglanildi.
+2022-02-05 17:23:15: BILGI: Konfigurasyon listesi uygulandi.
+2022-02-05 17:23:16: BILGI: Switch (172.16.2.33) konfigurasyonu kaydedildi.
+2022-02-05 17:23:18: BILGI: Switch (172.16.2.33) baglantisi kapatildi.
+2022-02-05 17:23:19: BILGI: 172.16.2.44 IP adresli switch'e baglanildi.
+2022-02-05 17:23:19: BILGI: Konfigurasyon listesi uygulandi.
+2022-02-05 17:23:19: BILGI: Switch (172.16.2.44) konfigurasyonu kaydedildi.
+2022-02-05 17:23:22: BILGI: Switch (172.16.2.44) baglantisi kapatildi.
+2022-02-05 17:23:22: BILGI: Islem tamamlandi.

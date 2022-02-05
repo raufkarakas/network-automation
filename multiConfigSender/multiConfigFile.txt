@@ -1,0 +1,24 @@
+# 172.16.2.11
+interface eth 0/2
+desc test22
+exit
+interface vlan 201
+ip address 192.168.201.1 255.255.255.0
+exit
+
+
+# 172.16.2.33
+interface eth 0/3
+desc test44
+exit
+interface vlan 101
+ip address 192.168.101.1 255.255.255.0
+exit
+
+# 172.16.2.44
+interface eth 0/0
+desc test00
+exit
+interface vlan 111
+ip address 192.168.111.1 255.255.255.128
+exit

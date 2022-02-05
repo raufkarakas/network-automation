@@ -1,0 +1,24 @@
+2022-02-05 16:58:24: BILGI: Switch IP listesi olusturuldu. 5 switch bulundu.
+2022-02-05 16:58:28: BILGI: 172.16.2.11 IP adresli switch'e baglanildi.
+2022-02-05 16:58:28: BILGI: Switch hostname: SW1 
+2022-02-05 16:58:28: BILGI: Cihaz konfigurasyonu SSH ile basariyla alindi.
+2022-02-05 16:58:28: BILGI: Switch konfigurasyonu 'configBackups' klasorune kaydedildi.
+2022-02-05 16:58:29: BILGI: CDP dictionary basariyla oluşturuldu.
+2022-02-05 16:58:42: BILGI: 172.16.2.22 IP adresli switch'e baglanildi.
+2022-02-05 16:58:42: BILGI: Switch hostname: SW2 
+2022-02-05 16:58:42: BILGI: Cihaz konfigurasyonu SSH ile basariyla alindi.
+2022-02-05 16:58:42: BILGI: Switch konfigurasyonu 'configBackups' klasorune kaydedildi.
+2022-02-05 16:58:42: BILGI: CDP dictionary basariyla oluşturuldu.
+2022-02-05 16:58:45: BILGI: 172.16.2.33 IP adresli switch'e baglanildi.
+2022-02-05 16:58:45: BILGI: Switch hostname: SW3 
+2022-02-05 16:58:45: BILGI: Cihaz konfigurasyonu SSH ile basariyla alindi.
+2022-02-05 16:58:45: BILGI: Switch konfigurasyonu 'configBackups' klasorune kaydedildi.
+2022-02-05 16:58:46: BILGI: CDP dictionary basariyla oluşturuldu.
+2022-02-05 16:58:53: HATA: 172.16.2.55 IP adresli switch'e baglanilamadi. Timeout.
+2022-02-05 16:58:54: BILGI: 172.16.2.253 IP adresli switch'e baglanildi.
+2022-02-05 16:58:54: BILGI: Switch hostname: Core_SW 
+2022-02-05 16:58:54: BILGI: Cihaz konfigurasyonu SSH ile basariyla alindi.
+2022-02-05 16:58:54: BILGI: Switch konfigurasyonu 'configBackups' klasorune kaydedildi.
+2022-02-05 16:58:54: BILGI: CDP dictionary basariyla oluşturuldu.
+2022-02-05 16:58:56: Bilgi: Topolojiye 'networkTopology.html' dosyasindan ulasilabilir.
+2022-02-05 16:58:56: BILGI: Islem tamamlandi.
